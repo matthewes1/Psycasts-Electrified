@@ -16,7 +16,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 		<researchPrerequisites>
-			<li>MultiAnalyzer</li>
+			<li>MicroelectronicsBasics</li>
 		</researchPrerequisites>
 	</ThingDef>
 
@@ -80,7 +80,7 @@
 			<li>Simple</li>
 		</techHediffsTags>
 		<researchPrerequisites>
-			<li>MultiAnalyzer</li>
+			<li>MicroelectronicsBasics</li>
 		</researchPrerequisites>
 	</ThingDef>
 
